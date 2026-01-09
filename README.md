@@ -3,7 +3,7 @@ XPF TrueStart is a retro-style new tab extension that includes a customizable Yo
 
 ## Installation (local testing)
 1. Download the ZIP and extract 
-2. Go to the extension settings of your browser ( manifest.json writed for Chromium Based Browsers)
+2. Go to the extension settings of your browser ( manifest.json written for Chromium Based Browsers)
 3. Enable dev mode
 4. Select 'Load Unpacked' and select extracted folder of the extension
 5. Enjoy 
