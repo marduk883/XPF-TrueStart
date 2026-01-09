@@ -8,7 +8,7 @@ XPF TrueStart is a retro-style new tab extension that includes a customizable Yo
 4. Select 'Load Unpacked' and select extracted folder of the extension
 5. Enjoy 
 
-Feel free to help yourself and contribute to improving this project
+Feel free to help yourself and contribute to improving this extension
 
 ## Repository structure
 - options.html — Index Page
